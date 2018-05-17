@@ -2,11 +2,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <name>chapter-4-spring-boot-web-thymeleaf</name>
-    <description>《Spring Boot 2.x 核心技术实战 - 上 基础篇》第 4 章《模板引擎》Demo</description>
+    <name>springboot2-mybatis-thymeleaf</name>
+    <description>springboot2-mybatis-thymeleaf dome</description>
 
     <groupId>demo.springboot</groupId>
-    <artifactId>chapter-4-spring-boot-web-thymeleaf</artifactId>
+    <artifactId>springboot2-mybatis-thymeleaf</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
