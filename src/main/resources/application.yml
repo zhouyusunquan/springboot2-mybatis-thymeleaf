@@ -28,10 +28,10 @@ spring:
 
 mybatis:
   mapper-locations: classpath:mapper/*.xml
-  type-aliases-package: com.winterchen.model
+  type-aliases-package: demo.springboot.domain
 
 mapper:
-  mappers:  com.winterchen.dao
+  mappers:  demo.springboot.dao
   not-empty: false
   identity: MYSQL
 

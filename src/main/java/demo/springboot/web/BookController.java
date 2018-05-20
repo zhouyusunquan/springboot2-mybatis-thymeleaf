@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 /**
  * Book 控制层
  *
- * Created by bysocket on 30/09/2017.
+ * Created by zhouquan
  */
 @Controller
 @RequestMapping(value = "/book")
